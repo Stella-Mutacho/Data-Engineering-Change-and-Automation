@@ -42,7 +42,7 @@ Installation
 
 ## Airflow
 
-Airflow is used for scheduling and automation.
+Airflow is used for aurchestration and automation.
 
 Navigate to `http://localhost:8080/` on the browser
 use `airflow` for username
